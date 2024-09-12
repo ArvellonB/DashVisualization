@@ -1,6 +1,6 @@
 Dynamic Data Dashboard(DashVisualization)
 Overview
-Welcome to Dynamic Data Dashboard! This project is a simple web application built with Dash that lets users create and interact with data visualizations. Whether you have a small dataset or just want to see your data in a new light, this tool makes it easy to turn your data into meaningful insights.
+Welcome to Dynamic Data Dashboard! This project is a simple web application that I built with Dash that lets users create and interact with data visualizations. Whether you have a small dataset or just want to see your data in a new light, this tool makes it easy to turn your data into meaningful insights.
 
 Features
 Interactive Dashboards: Upload your data, and the app generates interactive visualizations on the fly.
